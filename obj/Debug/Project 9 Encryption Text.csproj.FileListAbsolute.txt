@@ -1,0 +1,12 @@
+C:\Users\TOPTECH\source\C#\Project 9 Encryption Text\bin\Debug\Project 9 Encryption Text.exe.config
+C:\Users\TOPTECH\source\C#\Project 9 Encryption Text\bin\Debug\Project 9 Encryption Text.exe
+C:\Users\TOPTECH\source\C#\Project 9 Encryption Text\bin\Debug\Project 9 Encryption Text.pdb
+C:\Users\TOPTECH\source\C#\Project 9 Encryption Text\bin\Debug\Guna.UI2.dll
+C:\Users\TOPTECH\source\C#\Project 9 Encryption Text\obj\Debug\Project 9 Encryption Text.csproj.AssemblyReference.cache
+C:\Users\TOPTECH\source\C#\Project 9 Encryption Text\obj\Debug\Project_9_Encryption_Text.Form1.resources
+C:\Users\TOPTECH\source\C#\Project 9 Encryption Text\obj\Debug\Project_9_Encryption_Text.Properties.Resources.resources
+C:\Users\TOPTECH\source\C#\Project 9 Encryption Text\obj\Debug\Project 9 Encryption Text.csproj.GenerateResource.cache
+C:\Users\TOPTECH\source\C#\Project 9 Encryption Text\obj\Debug\Project 9 Encryption Text.csproj.CoreCompileInputs.cache
+C:\Users\TOPTECH\source\C#\Project 9 Encryption Text\obj\Debug\Project .4352AD83.Up2Date
+C:\Users\TOPTECH\source\C#\Project 9 Encryption Text\obj\Debug\Project 9 Encryption Text.exe
+C:\Users\TOPTECH\source\C#\Project 9 Encryption Text\obj\Debug\Project 9 Encryption Text.pdb
